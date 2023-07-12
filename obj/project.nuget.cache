@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wx3m6oNL7v2am2MZFC8Eb0jn64vTvRpNtaBsr22wnoejgYwvz7h2stQkdRDMY+IPP2D++QlL5QaHlmNpQ4onsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LessTools\\LessTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

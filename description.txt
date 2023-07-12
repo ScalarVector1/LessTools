@@ -1,0 +1,3 @@
+Less tools is a simple quality of life mode that does one thing: Removes tools. All axes and hammers are removed in favor of folding their functionality onto pickaxes. Picakxes act as both axes and pickaxes by default, and as hammers with a right click.
+
+Certain modded axes or hammers may remain if they have right click behavior.
